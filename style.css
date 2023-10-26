@@ -1,0 +1,23 @@
+@import url("styles/header.css");
+@import url("styles/secoes.css");
+
+:root {
+    --cor-de-fundo: #ffffff;
+    --cor-cinza-principal-texto: #667085;
+    --cor-cinza-escuro-secundario-texto: #101828;
+    --cor-botao-cadastro-e-texto: #8E2424;
+    
+}
+
+body {
+    box-sizing: border-box;
+    background-color: var(--cor-de-fundo);
+    color: var(--cor-cinza-principal-texto);
+    font-family: 'Inter', sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    width: 100%;
+    height: 100vh;
+ }
+
+ 
