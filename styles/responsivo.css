@@ -1,0 +1,60 @@
+@media screen and (max-width: 1224px) {
+
+    .navbar {
+        display: none;
+    }
+   
+    .cabecalho-btn {
+        display: none;
+    }
+
+    .about-us h1 {
+        font-size: 32px;
+        text-align: center;
+    }
+    .about-us p {
+        font-size: 1.125rem;
+        text-align: start;
+        line-height: 1.5;
+        width: 100%;
+    }
+    .metricas {
+        flex-direction: column;
+        align-items: center;
+    }
+    .container {
+        width: 100%;
+        margin-bottom: 4rem;
+        text-align: center;
+    }
+
+    .vagas {
+        width: 85%;
+    }
+
+    .informacoes span {
+        text-wrap: nowrap;
+        line-height: 1.2;
+    }
+
+    .container-depoimentos {
+        padding: 1.5rem;
+    }
+
+    .container-depoimentos h2 {
+        text-align: start;
+    }
+
+    .rodape-container {
+        padding: 1.5rem;
+    }
+
+    input {
+        width: 80%;
+    }
+
+    .input-btn {
+        row-gap: 1rem;
+    }
+}
+

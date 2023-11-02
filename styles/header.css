@@ -7,7 +7,7 @@
  .flex {
     display: flex;
     align-items: center;
-    column-gap: 10rem;
+    column-gap: 8rem;
  }
 
 .cabecalho-logo {
@@ -17,7 +17,7 @@
 }
 
 .cabecalho-logo h3 {
-   font-size: 18px;
+   font-size: 1.125rem;
 }
 
  .cabecalho__lista {
@@ -52,8 +52,7 @@
     background-color: var(--cor-botao-cadastro-e-texto);
     color: var(--cor-de-fundo);
     border-radius: 8px;
-    padding: 10px 18px;
+    padding: 0.625rem 1.125rem;
     cursor: pointer;
  }
 
-  
